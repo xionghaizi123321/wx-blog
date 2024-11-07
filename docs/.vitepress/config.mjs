@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "王小旭个人博客",
+  description: "一个记录日常学习的博客",
   base: '/wx-blog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
